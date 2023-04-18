@@ -1,1 +1,1 @@
-# feathersjs_chat
+# featherjs_chat
